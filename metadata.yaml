@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32325
     wikipedia: http://en.wikipedia.org/wiki/Ronald_Algie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26912#Report-of-the-Juvenile-Delinquency-Committee
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2008-10-13'
 gutenberg_type: Text
