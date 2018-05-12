@@ -1,0 +1,29 @@
+_repo: Report-of-the-Juvenile-Delinquency-Committee_26912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Algie, R. M. (Ronald Macmillan)
+    alias: Algie, Ronald Macmillan
+    birthdate: 1888
+    deathdate: 1978
+    gutenberg_agent_id: '32325'
+    url: http://www.gutenberg.org/2009/agents/32325
+    wikipedia: http://en.wikipedia.org/wiki/Ronald_Algie
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2008-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Juvenile delinquency -- New Zealand'
+title: Report of the Juvenile Delinquency Committee
+url: http://www.gutenberg.org/ebooks/26912
